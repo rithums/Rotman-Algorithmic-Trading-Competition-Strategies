@@ -2,7 +2,6 @@
 """
 Created on Tue Sep 24 09:35:00 2024
 
-@author: Rhythm Satav
 """
 
 import requests
